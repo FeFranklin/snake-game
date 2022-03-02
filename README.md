@@ -10,7 +10,7 @@
   <h3 align="center">Best React Snake game</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome Snake game to play!
     <br />
     <a href="https://github.com/FeFranklin/snake-game#readme"><strong>Explore the docs »</strong></a>
     <br />
