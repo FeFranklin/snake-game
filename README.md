@@ -28,7 +28,7 @@
 ## About The Project
 
 <div align="center">
-  <img width="500" height="500" src="https://imgur.com/ePwGpj1.jpeg" alt="Widget component demo">
+  <img width="500" height="500" src="https://imgur.com/ePwGpj1.jpeg" alt="snake game">
 </div>
 
 Simple snake game using Javascript and React
@@ -54,6 +54,10 @@ You can play the game by going to the project's GitHub Pages link ----> [HERE](h
 ## Usage
 
 It is kinda like this 🐍
+
+<div align="center">
+  <img width="500" height="500" src="https://imgur.com/eXYjCe0.gif" alt="Snake game gif">
+</div>
 
 <!-- CONTACT -->
 ## Contact
