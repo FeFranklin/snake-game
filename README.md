@@ -7,7 +7,7 @@
     <img alt="Logo" width="80" height="80" src="https://img.icons8.com/external-vitaliy-gorbachev-fill-vitaly-gorbachev/60/000000/external-snake-st-patrick-day-vitaliy-gorbachev-fill-vitaly-gorbachev.png"/>
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Best React Snake game</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
