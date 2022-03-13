@@ -3,9 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img alt="Logo" width="80" height="80" src="https://img.icons8.com/external-vitaliy-gorbachev-fill-vitaly-gorbachev/60/000000/external-snake-st-patrick-day-vitaliy-gorbachev-fill-vitaly-gorbachev.png"/>
-  </a>
+  <img alt="Logo" width="80" height="80" src="https://img.icons8.com/external-vitaliy-gorbachev-fill-vitaly-gorbachev/60/000000/external-snake-st-patrick-day-vitaliy-gorbachev-fill-vitaly-gorbachev.png"/>
 
   <h3 align="center">Best React Snake game</h3>
 
